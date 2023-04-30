@@ -27,7 +27,8 @@ Before clustering, a local smoothing method is applied to the data to mitigate t
 
 
 ## Electricity Forecast
-[Notebook-Time Series](https://github.com/Veronica73/pecan_street_electricity_demand_prediction/blob/main/Electricity%20Forecast%20--%20Time%20Series.ipynb) 
+[Notebook-Time Series](https://github.com/Veronica73/pecan_street_electricity_demand_prediction/blob/main/Electricity%20Forecast%20--%20Time%20Series.ipynb)   
+
 [Notebook-Neural Network](https://github.com/Veronica73/pecan_street_electricity_demand_prediction/blob/main/Electricity%20Forecast%20--%20Neural%20Network.ipynb) 
 
 In this part, we test the performance of both **time series** models and **neural network** models, and the model comparison can be found [here](https://github.com/Veronica73/pecan_street_electricity_demand_prediction/blob/main/Model-Comparison.ipynb).
