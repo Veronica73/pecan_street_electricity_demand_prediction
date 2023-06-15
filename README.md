@@ -5,9 +5,8 @@ The purpose of the project is to give you a taste of data mining in the power sy
 
 # Dataset
 [dataset](https://www.kaggle.com/datasets/zhitingzheng/pecan-street-electricity-data)
-The data for this project is individual users' daily energy consumption from Pecan Street.
 
-The selected dataset contains electricity usage of 346 residential households from 2016 Jan 1st to 2016 April 30th, with the granularity of one minute. Not all the customer have records that span the whole four months. i.e., some users have one or two months of data, or some missing values within the four months.
+The data for this project is individual users' daily energy consumption from Pecan Street. The selected dataset contains electricity usage of 346 residential households from 2016 Jan 1st to 2016 April 30th, with the granularity of one minute. Not all the customer have records that span the whole four months. i.e., some users have one or two months of data, or some missing values within the four months.
 
 ## EDA & Data Preprocessing
 [Notebook](https://github.com/Veronica73/pecan_street_electricity_demand_prediction/blob/main/EDA%20%26%20Data%20Preprocessing.ipynb) 
