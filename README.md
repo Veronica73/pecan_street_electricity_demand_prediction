@@ -4,7 +4,8 @@
 The purpose of the project is to give you a taste of data mining in the power system. In this project, we forecast the hourly electricity consumption of residential households to better schedule the electricity supply. Since the using pattern varies dramatically among users, clustering is first applied to group users with similar using pattern. Then, forecast model is fitted cluster-wise. In this way, we could obtain higher prediction accuracy.
 
 # Dataset
-The data for this project is individual users' daily energy consumption from Pecan Street. You could download the data [here](https://www.kaggle.com/datasets/zhitingzheng/pecan-street-electricity-data).
+[dataset](https://www.kaggle.com/datasets/zhitingzheng/pecan-street-electricity-data)
+The data for this project is individual users' daily energy consumption from Pecan Street.
 
 The selected dataset contains electricity usage of 346 residential households from 2016 Jan 1st to 2016 April 30th, with the granularity of one minute. Not all the customer have records that span the whole four months. i.e., some users have one or two months of data, or some missing values within the four months.
 
